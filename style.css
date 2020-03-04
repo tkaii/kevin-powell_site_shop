@@ -149,7 +149,7 @@ nav a:focus {
 /* hero  */
 .hero{
   background-color: #333;
-  background: url('../img/shop2.jpg') center no-repeat;
+  background: url('./img/shop2.jpg') center no-repeat;
   background-size: cover;
   background-blend-mode: multiply;
   background-attachment: fixed;
@@ -173,7 +173,7 @@ nav a:focus {
 }
 
 .about-us_intro {
-  background: url('../img/cofee.jpg') center no-repeat;
+  background: url('./img/cofee.jpg') center no-repeat;
   background-size: cover;
   padding: 3em 1em 1.5em;
 }
